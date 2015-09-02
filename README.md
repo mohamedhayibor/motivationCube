@@ -1,0 +1,6 @@
+# motivationCube
+3D cube implementation using css and javascript
+This project was implemented by following the documentation
+on the 3D cube by Paul Rhayes (thank you for the conscise explanation).
+
+[link to Paul Rhayes blog](http://paulrhayes.com/2009-07/animated-css3-cube-interface-using-3d-transforms/)
